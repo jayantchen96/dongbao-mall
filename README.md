@@ -25,5 +25,5 @@ dongbao-service 业务模块实现层
 dongbao-application web应用模块
     msb-dongbao-manager-web 后台管理应用
     msb-dongbao-portal-web 商城门户网站
-msb-dongbao-job 定时任务模块
-msb-dongbao-generator 代码生成器
+dongbao-job 定时任务模块
+dongbao-generator 代码生成器
