@@ -1,0 +1,29 @@
+### 代码模块介绍
+```xml
+dongbao-mall-parent     父项目
+dongbao-common 公共包
+    dongbao-common-base 公共基础类
+    dongbao-common-util 工具类
+dongbao-api 业务模块接口层
+    dongbao-oms-api 订单中心接口
+    dongbao-pms-api 商品中心接口
+    dongbao-ums-api 用户中心接口
+    dongbao-pay-api 支付中心接口
+    dongbao-cart-api 购物车接口
+    dongbao-dictionary-api 基础字典接口
+    dongbao-sms-api 优惠中心接口
+    dongbao-cms-api 内容中心接口
+dongbao-service 业务模块实现层
+    dongbao-oms 订单中心模块实现
+    dongbao-pms 商品中心模块实现
+    dongbao-ums 用户中心模块实现
+    msdongbao-pay 支付中心模块实现
+    dongbao-cart 购物车模块实现
+    dongbao-dictionary 基础字典模块实现
+    dongbao-sms 优惠中心模块实现
+    dongbao-cms 内容中心模块实现
+dongbao-application web应用模块
+    msb-dongbao-manager-web 后台管理应用
+    msb-dongbao-portal-web 商城门户网站
+msb-dongbao-job 定时任务模块
+msb-dongbao-generator 代码生成器
